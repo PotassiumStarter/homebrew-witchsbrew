@@ -96,7 +96,7 @@ display_info() {
 }
 
 # Trap to exit on Ctrl+C
-trap "echo -e '\nExiting DrunkDriver. Drive safely!' && exit 0" SIGINT
+trap "echo -e '\nExiting Witch's Brew. Beware!' && exit 0" SIGINT
 
 # Loop to refresh the display every 5 seconds
 while true; do
